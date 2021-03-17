@@ -1,0 +1,12 @@
+# Ignore all files,
+*
+# except for Markdown,
+!*.md
+# makefiles,
+![Mm]akefile
+# and C files.
+!*.c
+# Obviously allow .gitignore's,
+!.gitignore
+# and allow subdirectories to be parsed.
+!*/

@@ -4,6 +4,8 @@
 !*.md
 # makefiles,
 ![Mm]akefile
+# evaluation rubrics,
+!aval_enunciado.*
 # and C files.
 !*.c
 # Obviously allow .gitignore's,

@@ -74,6 +74,6 @@ int main()
 			}
 		}
 	}
-	printf("%s", is_empty(s) ? "VALID" : "INVALID");
+	printf("%s", is_empty(s) ? "yes" : "no");
 	return 0;
 }
